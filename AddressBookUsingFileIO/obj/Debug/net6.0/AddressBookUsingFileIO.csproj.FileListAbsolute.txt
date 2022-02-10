@@ -1,0 +1,14 @@
+C:\Users\suraj\source\repos\AddressBookUsingFileIO\AddressBookUsingFileIO\bin\Debug\net6.0\AddressBookUsingFileIO.exe
+C:\Users\suraj\source\repos\AddressBookUsingFileIO\AddressBookUsingFileIO\bin\Debug\net6.0\AddressBookUsingFileIO.deps.json
+C:\Users\suraj\source\repos\AddressBookUsingFileIO\AddressBookUsingFileIO\bin\Debug\net6.0\AddressBookUsingFileIO.runtimeconfig.json
+C:\Users\suraj\source\repos\AddressBookUsingFileIO\AddressBookUsingFileIO\bin\Debug\net6.0\AddressBookUsingFileIO.dll
+C:\Users\suraj\source\repos\AddressBookUsingFileIO\AddressBookUsingFileIO\bin\Debug\net6.0\ref\AddressBookUsingFileIO.dll
+C:\Users\suraj\source\repos\AddressBookUsingFileIO\AddressBookUsingFileIO\bin\Debug\net6.0\AddressBookUsingFileIO.pdb
+C:\Users\suraj\source\repos\AddressBookUsingFileIO\AddressBookUsingFileIO\obj\Debug\net6.0\AddressBookUsingFileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj\source\repos\AddressBookUsingFileIO\AddressBookUsingFileIO\obj\Debug\net6.0\AddressBookUsingFileIO.AssemblyInfoInputs.cache
+C:\Users\suraj\source\repos\AddressBookUsingFileIO\AddressBookUsingFileIO\obj\Debug\net6.0\AddressBookUsingFileIO.AssemblyInfo.cs
+C:\Users\suraj\source\repos\AddressBookUsingFileIO\AddressBookUsingFileIO\obj\Debug\net6.0\AddressBookUsingFileIO.csproj.CoreCompileInputs.cache
+C:\Users\suraj\source\repos\AddressBookUsingFileIO\AddressBookUsingFileIO\obj\Debug\net6.0\AddressBookUsingFileIO.dll
+C:\Users\suraj\source\repos\AddressBookUsingFileIO\AddressBookUsingFileIO\obj\Debug\net6.0\ref\AddressBookUsingFileIO.dll
+C:\Users\suraj\source\repos\AddressBookUsingFileIO\AddressBookUsingFileIO\obj\Debug\net6.0\AddressBookUsingFileIO.pdb
+C:\Users\suraj\source\repos\AddressBookUsingFileIO\AddressBookUsingFileIO\obj\Debug\net6.0\AddressBookUsingFileIO.genruntimeconfig.cache
